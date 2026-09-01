@@ -1,3 +1,5 @@
+plaintext
+
 fastapi
 uvicorn
 google-genai
